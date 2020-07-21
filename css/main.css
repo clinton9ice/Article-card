@@ -59,7 +59,7 @@ body {
 }
 
 .container .rows .inline.img {
-  height: 470px;
+  height: 455px;
   width: 450px;
 }
 
@@ -335,9 +335,13 @@ footer {
 
 footer .author {
   text-align: center;
-  font-size: 15px;
+  font-size: 17px;
   color: #15181e;
   max-width: 500px;
   margin: auto;
+}
+
+footer .author a {
+  font-weight: 600;
 }
 /*# sourceMappingURL=main.css.map */
